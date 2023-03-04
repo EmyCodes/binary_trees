@@ -1321,18 +1321,13 @@ alex@/tmp/binary_trees$
 -   GitHub repository: `binary_trees`
 -   File: `18-binary_tree_uncle.c`
 
-## Authors
+## Author
 
 <details>
-    <summary>Ismaila Lawal Elijah</summary>
+    <summary>Ogundare Olamide Emmanuel</summary>
     <ul>
-    <li><a href="https://www.github.com/ElijahLawal-7">Github</a></li>
-    <li><a href="https://www.linkedin.com/in/elijah-lawal-18aa101bb">LinkedIn</a></li>
-    <li><a href="mailto:lawalelijah50@gmail.com@gmail.com">E-mail</a></li>
+    <li><a href="https://www.github.com/emycodes">Github</a></li>
+    <li><a href="https://www.linkedin.com/in/emycodes">LinkedIn</a></li>
+    <li><a href="mailto:ogundareolamideemmanuel@gmail.com">E-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Stella Ojiuba</summary>
-    <ul>
-    <li><a href="https://github.com/Stellacandy">Github</a></li>
-    </ul>
